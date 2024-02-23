@@ -1,0 +1,12 @@
+// folder structure depends on company to company
+//routes for end points  add 
+//controller =all business logic,related to api 
+//config folder= files related to system or database keep here
+//models= ton design the data base structure
+// view/public = front end react
+//routes=routing 
+//mmiddleware= next function
+//test= for testing 
+//src= depends on company view ya public ya view
+//assets= picture, video, 
+//utils= fuctions
